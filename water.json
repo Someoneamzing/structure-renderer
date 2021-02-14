@@ -1,0 +1,6 @@
+{
+    "textures": {
+        "top": "block/water_still",
+        "side": "block/water_flow",
+    }
+}
